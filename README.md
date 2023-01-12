@@ -11,11 +11,3 @@ I'm a 18 year old developer that works on Unity and Python
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
-
-## Current project
-[![FRX](https://github-readme-stats.vercel.app/api/pin/?username=ffrxsln&repo=moralis-ethbalance-python&bg_color=141321&text_color=fff)](https://github.com/ffrxsln/moralis-ethbalance-python)
-
-## Stats
-![My stats](https://github-readme-stats.vercel.app/api?username=ffrxsln&show_icons=true&theme=radical)
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffrxsln&bg_color=141321&text_color=fff&langs_count=3)](https://github.com/ffrxsln)
