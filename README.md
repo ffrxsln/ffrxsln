@@ -1,5 +1,5 @@
 # Hi There 👋
-I'm a 19 year old developer that works on Unity and Python
+Hi, I'm Halim, I'm a Python and Unity developer for 5+ years. I've made some games and apps for Android and they were published by Google. I currently using Unity, Python Also I have knowledge of xcode.
 
 
 </p>
@@ -10,4 +10,5 @@ I'm a 19 year old developer that works on Unity and Python
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xcode/xcode-original.svg" title="Git" **alt="Git" width="60" height="60"/>
+     <img src="[https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xcode/xcode-original.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/freelancer-icon.png)https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/freelancer-icon.png" title="Git" **alt="Git" width="60" height="60"/>
 </div>
