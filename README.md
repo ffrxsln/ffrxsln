@@ -10,5 +10,5 @@ Hi, I'm Halim, I'm a Python and Unity developer for 5+ years. I've made some gam
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xcode/xcode-original.svg" title="Git" **alt="Git" width="60" height="60"/>
-     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/freelancer-icon.png" title="freelancer" **alt="freelancer" width="30" height="30"/>
+     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/freelancer-icon.png" title="freelancer" **alt="freelancer" width="50" height="50"/>
 </div>
